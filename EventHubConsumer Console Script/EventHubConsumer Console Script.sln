@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubConsumer Console Script", "EventHubConsumer Console Script.csproj", "{B446A2A0-6F4B-4540-B396-0C0C6403B838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B446A2A0-6F4B-4540-B396-0C0C6403B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B446A2A0-6F4B-4540-B396-0C0C6403B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B446A2A0-6F4B-4540-B396-0C0C6403B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B446A2A0-6F4B-4540-B396-0C0C6403B838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF73F679-0392-458E-ACAA-6D22456039AC}
+	EndGlobalSection
+EndGlobal

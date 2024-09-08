@@ -1,0 +1,1 @@
+This is Event Hub Consumer, Which uses MS identity - DEFAULTCREDENTIALS to authenticate user and blob storage account container to read data

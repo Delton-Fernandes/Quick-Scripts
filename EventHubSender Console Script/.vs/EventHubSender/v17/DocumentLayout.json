@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Azure APIM Test\\EventHubSender\\",
+  "WorkspaceRootPath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\EventHubSender Console Script\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A43F08A-DBA6-41DB-A45E-2935F4CAA01D}|EventHubSender.csproj|c:\\users\\delton.fernandes\\onedrive - british business bank plc\\documents\\github\\quick-scripts\\azure apim test\\eventhubsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A43F08A-DBA6-41DB-A45E-2935F4CAA01D}|EventHubSender.csproj|c:\\users\\delton.fernandes\\onedrive - british business bank plc\\documents\\github\\quick-scripts\\eventhubsender console script\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A43F08A-DBA6-41DB-A45E-2935F4CAA01D}|EventHubSender.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Azure APIM Test\\EventHubSender\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\EventHubSender Console Script\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Azure APIM Test\\EventHubSender\\Program.cs",
+              "ToolTip": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\EventHubSender Console Script\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T16:16:32.943Z",
               "EditorCaption": ""

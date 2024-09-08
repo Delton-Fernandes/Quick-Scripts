@@ -47,6 +47,5 @@ Task ProcessErrorHandler(ProcessErrorEventArgs eventArgs)
     // Write details about the error to the console window
     Console.WriteLine($"\tPartition '{eventArgs.PartitionId}': an unhandled exception was encountered. This was not expected to happen.");
     Console.WriteLine(eventArgs.Exception.Message);
-    Console.ReadLine();
     return Task.CompletedTask;
 }

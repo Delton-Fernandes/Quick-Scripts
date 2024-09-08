@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventHubConsumer Console Script")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c019b5aa536224ac90b23d4c14bb15063453cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cea30efb3df071a4b17ee3c7021062f77f6d8a5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventHubConsumer Console Script")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventHubConsumer Console Script")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

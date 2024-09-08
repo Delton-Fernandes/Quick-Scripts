@@ -52,6 +52,7 @@ for (int i = 0; i < numOfEvents; i++)
 
     await producerClient.SendAsync(eventBatch);
 
+    Console.WriteLine("Event " + i + " sent.");
     eventBatch.Dispose();
 
     Thread.Sleep(500);

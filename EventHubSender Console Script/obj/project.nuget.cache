@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLcCVpAxXePIF23Gfiv/XnZTLfqGQFJ/VeGSBd3xj7/VROE5BqypMJtea//ywB7tVgPKNMOsoTevbv7hVrVRTA==",
+  "dgSpecHash": "0kMTBdXRX38EIeTxsNl5xQdQxxUyWUUw02dj5yLrukXPnd45NcUaagANuvKKhWc8MEAKdiRLvxbsjmp6Eagg9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Azure APIM Test\\EventHubSender\\EventHubSender.csproj",
+  "projectFilePath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\EventHubSender Console Script\\EventHubSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\azure.core.amqp\\1.3.1\\azure.core.amqp.1.3.1.nupkg.sha512",

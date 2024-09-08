@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EventHubSender
-build_property.ProjectDir = C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Azure APIM Test\EventHubSender\
+build_property.ProjectDir = C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\EventHubSender Console Script\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

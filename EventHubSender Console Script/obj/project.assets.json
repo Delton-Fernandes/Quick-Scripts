@@ -898,11 +898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Azure APIM Test\\EventHubSender\\EventHubSender.csproj",
+      "projectUniqueName": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\EventHubSender Console Script\\EventHubSender.csproj",
       "projectName": "EventHubSender",
-      "projectPath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Azure APIM Test\\EventHubSender\\EventHubSender.csproj",
+      "projectPath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\EventHubSender Console Script\\EventHubSender.csproj",
       "packagesPath": "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Azure APIM Test\\EventHubSender\\obj\\",
+      "outputPath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\EventHubSender Console Script\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

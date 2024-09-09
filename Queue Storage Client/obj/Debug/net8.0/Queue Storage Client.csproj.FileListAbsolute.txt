@@ -1,0 +1,30 @@
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Queue Storage Client.exe
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Queue Storage Client.deps.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Queue Storage Client.runtimeconfig.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Queue Storage Client.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Queue Storage Client.pdb
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.csproj.AssemblyReference.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.AssemblyInfoInputs.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.AssemblyInfo.cs
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.csproj.CoreCompileInputs.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.sourcelink.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue St.30E66A04.Up2Date
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\refint\Queue Storage Client.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.pdb
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\Queue Storage Client.genruntimeconfig.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Queue Storage Client\obj\Debug\net8.0\ref\Queue Storage Client.dll

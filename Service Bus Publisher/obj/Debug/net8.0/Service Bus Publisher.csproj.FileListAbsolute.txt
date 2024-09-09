@@ -1,0 +1,30 @@
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Service Bus Publisher.exe
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Service Bus Publisher.deps.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Service Bus Publisher.runtimeconfig.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Service Bus Publisher.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Service Bus Publisher.pdb
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.csproj.AssemblyReference.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.AssemblyInfoInputs.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.AssemblyInfo.cs
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.sourcelink.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service .D8164992.Up2Date
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\refint\Service Bus Publisher.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.pdb
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\Service Bus Publisher.genruntimeconfig.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Service Bus Publisher\obj\Debug\net8.0\ref\Service Bus Publisher.dll

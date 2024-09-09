@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service Bus Publisher", "Service Bus Publisher.csproj", "{5E5B8AF5-B83E-4AC3-9A8D-8CEB72526E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5B8AF5-B83E-4AC3-9A8D-8CEB72526E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5B8AF5-B83E-4AC3-9A8D-8CEB72526E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5B8AF5-B83E-4AC3-9A8D-8CEB72526E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5B8AF5-B83E-4AC3-9A8D-8CEB72526E91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC69B11B-260F-4947-9C77-5E36D91223C3}
+	EndGlobalSection
+EndGlobal

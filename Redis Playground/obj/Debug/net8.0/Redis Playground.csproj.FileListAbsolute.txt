@@ -1,0 +1,21 @@
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\Redis Playground.exe
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\Redis Playground.deps.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\Redis Playground.runtimeconfig.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\Redis Playground.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\Redis Playground.pdb
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.csproj.AssemblyReference.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.AssemblyInfoInputs.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.AssemblyInfo.cs
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.csproj.CoreCompileInputs.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.sourcelink.json
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Pl.41681CED.Up2Date
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\refint\Redis Playground.dll
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.pdb
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\Redis Playground.genruntimeconfig.cache
+C:\Users\Delton.Fernandes\OneDrive - British Business Bank plc\Documents\GitHub\Quick-Scripts\Redis Playground\obj\Debug\net8.0\ref\Redis Playground.dll

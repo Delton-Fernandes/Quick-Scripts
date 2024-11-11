@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfQAyQz7LUmaNPiI6sAnrZTZt27X/5AXf4ub+0CkpIYtvAI9wtSpCryLKOtGAtQ4qlZCk0apCFSSXU/M/1xWFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Delton.Fernandes\\OneDrive - British Business Bank plc\\Documents\\GitHub\\Quick-Scripts\\Redis Playground\\Redis Playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\stackexchange.redis\\2.8.16\\stackexchange.redis.2.8.16.nupkg.sha512",
+    "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

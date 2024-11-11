@@ -1,0 +1,5 @@
+Approaches tried
+
+Meta developers - requires a legit business 
+Respond.io - Paywall, but there could be a solution here 
+WhatsApp web app - something to do manually?? writing a script utilising the app directly

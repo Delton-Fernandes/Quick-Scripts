@@ -1,8 +1,8 @@
 ﻿using Azure.Messaging.ServiceBus;
 using Azure.Identity;
 
-string queueName = "servicebus-queue1";
-string fdqn = "deltonsorg-servicebus.servicebus.windows.net";
+string queueName = "corehr-topic";
+string fdqn = "corehr-servicebus.servicebus.windows.net";
 
 ServiceBusClient serviceBusClient = new ServiceBusClient(fdqn,new DefaultAzureCredential());
 ServiceBusSender serviceBusSender = serviceBusClient.CreateSender(queueName);
@@ -11,7 +11,7 @@ using ServiceBusMessageBatch messageBatch = await serviceBusSender.CreateMessage
 
 for (int i =0; i <= 3; i++)
 {
-    if (!messageBatch.TryAddMessage(new ServiceBusMessage($"Message {i}")))
+    if (!messageBatch.TryAddMessage(new ServiceBusMessage($"core hr Message {i}")))
     {
         throw new Exception($"Exception {i} has occured");
     }

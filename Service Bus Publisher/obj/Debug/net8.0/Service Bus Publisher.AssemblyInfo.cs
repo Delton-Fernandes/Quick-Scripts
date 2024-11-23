@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Service Bus Publisher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+921b9a3b627e57023c00c8a527d562bf607efd52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d63d6a88bf48a9160094501dc4f0c0654fd8477b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Service Bus Publisher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Service Bus Publisher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
